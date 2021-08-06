@@ -1,0 +1,9 @@
+.place__link-title {
+    margin: 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    color: #aaaa;
+    padding-bottom: 12px;
+}
