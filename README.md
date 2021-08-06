@@ -13,7 +13,7 @@ ________________________________________________
 * flexbox и grid-layout
 * медиазапросы для создания "отзывчивой" вёрстки.
 
-## [Ссылка на GitHub Pages] (https://sukhasana.github.io/russian-travel/)
+## [Ссылка на GitHub Pages](https://sukhasana.github.io/russian-travel/)
 
  
 
