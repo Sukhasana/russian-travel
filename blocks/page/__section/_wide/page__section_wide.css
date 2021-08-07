@@ -5,14 +5,14 @@
 
 @media screen and (max-width: 1024px) {
     .page__section_wide {
-        max-width: 720px;
+        max-width: 928px;
     }
     
 }
 
 @media screen and (max-width: 768px) {
     .page__section_wide {
-        max-width: 320px;
+        max-width: 720px;
     } 
 }
 

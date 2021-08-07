@@ -1,7 +1,7 @@
 .places {
     padding-bottom: 92px;
-    
-    
+    display: grid;
+    grid-gap: 80px;
 }
 
 @media screen and (max-width: 1023px) {
@@ -10,7 +10,7 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
     .places {
         grid-gap: 50px;
     }
