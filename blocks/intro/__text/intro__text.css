@@ -5,4 +5,11 @@
     font-weight: 400;
     color: #ffff;
     padding-bottom: 33px;
+    max-width: 690px;
+}
+
+@media screen and (max-width: 767px) {
+  .intro__text {
+    max-width: 720px;
+  }
 }

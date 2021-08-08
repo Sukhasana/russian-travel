@@ -4,10 +4,15 @@
     padding-bottom: 92px;
     display: flex;
 }
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .cover {
         padding-top: 66px;
+        padding-bottom: 88px;
+    }
+    
+}
+@media screen and (max-width: 320px) {
+    .cover {
         padding-bottom: 64px;
     }
     

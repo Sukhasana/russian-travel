@@ -5,7 +5,7 @@
     line-height: 58px;
     font-weight: 900;
     color: #ffff;
-    padding-top: 114px;
+    padding-top: 92px;
     padding-bottom: 40px;
 }
 
@@ -16,9 +16,9 @@
 }
 
 @media screen and (max-width: 320px) {
-    .lead__caption {
-        padding-top: 64px;
-        font-size: 32px;
-        line-height: 35px;
-    }
+  .intro__title {
+      padding-top: 64px;
+      font-size: 32px;
+      line-height: 35px;
+  }
 }

@@ -4,13 +4,13 @@
     line-height: 16px;
     font-weight: 400;
     color: #ffff;
-    align-self: flex-end;
+    
 }
 
 @media screen and (max-width: 767px) {
     .footer__copyright {
         padding-top: 48px;
         line-height: 14px;
+        
     }
-    
 }
